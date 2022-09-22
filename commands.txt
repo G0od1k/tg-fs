@@ -1,0 +1,3 @@
+pwd - present working directory
+root - show parent directory
+home - goto home directory
