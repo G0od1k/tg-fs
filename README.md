@@ -1,4 +1,4 @@
-# TFS
+# Telegram File System
 
 Access your file system from your Telegram
 
