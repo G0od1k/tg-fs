@@ -5,6 +5,8 @@ const { log, formatFileSize, verify, icon, resolve } = require(`./fun`)
 
 process.env["NTBA_FIX_350"] = 1
 
+process.title = "tg-fs"
+
 require("./config.json").forEach((cfg) => {
 	const bot = new TelegramBot(cfg.token, {
 		polling: true,

@@ -32,6 +32,7 @@
 			"🗄": "\\.(json|yaml|xml|bson|json5|csv|bin)$",
 			"🎲": "\\.(blend|stp|max|fbx|obj|x3d|vrml|3ds|3mf|stl|dae)$",
 			"📚": "\\.(zip|zipx|z|tar|tgz|7z|s7z|apk|rar)$",
+			"🧩": "\\.(part)$",
 			"🔠": "\\.(ttf|woff)$"
 		},
 		"defaultFileIcon": "📄",
