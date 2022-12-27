@@ -1,58 +1,58 @@
 [
-	{
-		"name": "Main",
-		"token": "TOKEN",
-		"home": "HOME_PATH",
-		"msg": {
-			"emptyFile": "File is empty",
-			"accessDenied": "Access Denied",
-			"accessDeniedRedirect": "Access Denied. Redirect"
-		},
-		"icons": {
-			"🎥": "\\.(mkv|mp4|webm)$",
-			"🏞": "\\.(png|jpeg|jpg|webp|bmp|ico)$",
-			"🔈": "\\.(mp3|wav|ogg|flac|m4a)$",
-			"🕸": "\\.(htm|html)$",
-			"🐶": "\\.(pug)$",
-			"🐘": "\\.(php)$",
-			"☕️": "\\.(java|jav|jsp)$",
-			"🐍": "\\.py[icdowz]?$",
-			"🍷": "\\.(exe)$",
-			"🐚": "\\.(sh|bat)$",
-			"🧾": "\\.(md)$",
-			"🟨": "\\.(js|es|jst)$",
-			"🟦": "\\.(ts)$",
-			"🗺": "\\.(map)$",
-			"⚛️": "\\.(jsx)$",
-			"📕": "\\.(pdf)$",
-			"🧊": "\\.(reg)$",
-			"🌷": "\\.((sc|c|le|sa)ss|styl)$",
-			"☀️": "\\.(svg)$",
-			"🎧": "\\.(spl)$",
-			"🗄": "\\.(json|yaml|xml|bson|json5|csv|bin)$",
-			"🎲": "\\.(blend|stp|max|fbx|obj|x3d|vrml|3ds|3mf|stl|dae)$",
-			"📚": "\\.(zip|zipx|z|tar|tgz|7z|s7z|apk|rar)$",
-			"🧩": "\\.(part)$",
-			"🔠": "\\.(ttf|woff)$"
-		},
-		"defaultFileIcon": "📄",
-		"defaultDirIcon": "📁",
-		"excludePath": [".*[\\\\\\/]tg-fs[\\\\\\/]?.*"],
-		"users": {
-			"USER_ID": {
-				"name": "ADMIN",
-				"download": true,
-				"cat": true,
-				"excludePath": [],
-				"includePath": [".*[\\\\\\/]tg-fs[\\\\\\/]?.*"]
-			},
-			"ANOTHER_USER_ID": {
-				"name": "FRIEND",
-				"download": false,
-				"cat": true,
-				"excludePath": [],
-				"includePath": []
-			}
-		}
-	}
+    {
+        "name": "Main",
+        "token": "TOKEN",
+        "home": "HOME_PATH",
+        "msg": {
+            "emptyFile": "File is empty",
+            "accessDenied": "Access Denied",
+            "accessDeniedRedirect": "Access Denied. Redirect"
+        },
+        "icons": {
+            "🎥": "\\.(mkv|mp4|webm)$",
+            "🏞": "\\.(png|jpeg|jpg|webp|bmp|ico)$",
+            "🔈": "\\.(mp3|wav|ogg|flac|m4a)$",
+            "🕸": "\\.(htm|html)$",
+            "🐶": "\\.(pug)$",
+            "🐘": "\\.(php)$",
+            "☕️": "\\.(java|jav|jsp)$",
+            "🐍": "\\.py[icdowz]?$",
+            "🍷": "\\.(exe)$",
+            "🐚": "\\.(sh|bat)$",
+            "🧾": "\\.(md)$",
+            "🟨": "\\.(js|es|jst)$",
+            "🟦": "\\.(ts)$",
+            "🗺": "\\.(map)$",
+            "⚛️": "\\.(jsx)$",
+            "📕": "\\.(pdf)$",
+            "🧊": "\\.(reg)$",
+            "🌷": "\\.((sc|c|le|sa)ss|styl)$",
+            "☀️": "\\.(svg)$",
+            "🎧": "\\.(spl)$",
+            "🗄": "\\.(json|yaml|xml|bson|json5|csv|bin)$",
+            "🎲": "\\.(blend|stp|max|fbx|obj|x3d|vrml|3ds|3mf|stl|dae)$",
+            "📚": "\\.(zip|zipx|z|tar|tgz|7z|s7z|apk|rar)$",
+            "🧩": "\\.(part)$",
+            "🔠": "\\.(ttf|woff)$"
+        },
+        "defaultFileIcon": "📄",
+        "defaultDirIcon": "📁",
+        "excludePath": [".*[\\\\\\/]tg-fs[\\\\\\/]?.*"],
+        "users": {
+            "USER_ID": {
+                "name": "ADMIN",
+                "download": true,
+                "cat": true,
+                "excludePath": [],
+                "includePath": [".*[\\\\\\/]tg-fs[\\\\\\/]?.*"]
+            },
+            "ANOTHER_USER_ID": {
+                "name": "FRIEND",
+                "download": false,
+                "cat": true,
+                "excludePath": [],
+                "includePath": []
+            }
+        }
+    }
 ]

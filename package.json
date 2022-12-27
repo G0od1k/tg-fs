@@ -1,26 +1,26 @@
 {
-	"name": "tg-fs",
-	"version": "1.0.0",
-	"description": "Access your file system from your Telegram",
-	"main": "index.js",
-	"scripts": {
-		"start": "node ."
-	},
-	"keywords": [
-		"telegram",
-		"fs"
-	],
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/G0od1k/tg-fs.git"
-	},
-	"author": "G0od1k <g0cd1k@gmail.com> (https://github.com/G0od1k)",
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/G0od1k/tg-fs/issues"
-	},
-	"homepage": "https://github.com/G0od1k/tg-fs#readme",
-	"dependencies": {
-		"node-telegram-bot-api": "^0.59.0"
-	}
+    "name": "tg-fs",
+    "version": "1.0.0",
+    "description": "Access your file system from your Telegram",
+    "main": "index.js",
+    "scripts": {
+        "start": "node ."
+    },
+    "keywords": [
+        "telegram",
+        "fs"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/G0od1k/tg-fs.git"
+    },
+    "author": "G0od1k <g0cd1k@gmail.com> (https://github.com/G0od1k)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/G0od1k/tg-fs/issues"
+    },
+    "homepage": "https://github.com/G0od1k/tg-fs#readme",
+    "dependencies": {
+        "node-telegram-bot-api": "^0.59.0"
+    }
 }
